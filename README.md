@@ -1,3 +1,9 @@
+
+  <p align="center">
+  <img alt="app logo" src="https://github.com/DhananjayNavlani/Festive-Hub-App/assets/67141328/6693afc6-b38b-4ded-bb61-28c195517e87" style="width: 200px; height: 200px;">
+  </p>
+
+
 # Festive Hub App 
 
 The Festive Hub App is a digital platform designed to streamline the registration process for college fest events organized by universities or colleges. It aims to provide an efficient and user-friendly solution for both event participants and organizers. Used Java to develop modules, used to PHP to make Restful API to authenticate the login credentials, performed CRUD operations on users, volunteer, events, registered events table made with help of MySQL.
@@ -27,9 +33,13 @@ The Festive Hub App is a digital platform designed to streamline the registratio
 - **Increased Efficiency:** The Festive Hub App optimizes the entire event registration process, eliminating manual tasks and reducing the chances of errors or miscommunications.
 
 
-## Outcomes 🤞
+## Demo
+This demo was recorded on emulator of android studio
+ 
 
-<img src="https://github.com/DhananjayNavlani/Festive-Hub-App/assets/67141328/3d2eca01-83a7-4919-b141-83ca7cc73778" width="100"  >
+https://github.com/DhananjayNavlani/Festive-Hub-App/assets/67141328/fab17ce6-2075-4095-ba0d-39bc85070003
+
+
 
 
 
