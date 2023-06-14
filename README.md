@@ -36,10 +36,5 @@ The Festive Hub App is a digital platform designed to streamline the registratio
 ## Demo
 This demo was recorded on emulator of android studio
  
-
-https://github.com/DhananjayNavlani/Festive-Hub-App/assets/67141328/fab17ce6-2075-4095-ba0d-39bc85070003
-
-
-
-
+https://github.com/DhananjayNavlani/Festive-Hub-App/assets/67141328/396a0917-1dfe-4221-9fd1-3c5477a0afef
 
